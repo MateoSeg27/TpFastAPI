@@ -1,3 +1,0 @@
-Producto: Teclado Mec�nico, Precio: $100.00, Env�o: $5.00, Total: $105.00, Entrega estimada: 5 a 7 d�as h�biles
-Producto: Notebook, Precio: $1200.00, Env�o: $15.00, Total: $1215.00, Entrega estimada: 1 a 2 d�as h�biles
-Producto: Escritorio Gamer, Precio: $300.00, Env�o: $60.00, Total: $360.00, Entrega estimada: 3 d�as estimados
